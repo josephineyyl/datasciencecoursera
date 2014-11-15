@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Git Repo for coursers Data Science Course
+Git Repo for coursera Data Science Course
